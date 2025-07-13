@@ -1,0 +1,19 @@
+{
+  "dbms": {
+    "postgresql": {
+      "addr": "localhost",
+      "db": "assessdb_trial",
+      "enable": true,
+      "port": 6900,
+      "pwd": "as142857",
+      "user": "assessuser"
+    },
+    "redis": {
+      "addr": "localhost",
+      "init": false,
+      "port": 6910,
+      "cert": "your redis requirepass"
+    }
+  }
+}
+
